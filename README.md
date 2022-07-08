@@ -1,7 +1,7 @@
 ## 1. Model
 
 1. **CodeBERT: A Pre-Trained Model for Programming and Natural Languages**. EMNLP 2020. [[pdf](https://arxiv.org/pdf/2002.08155.pdf)] [[code](https://github.com/microsoft/CodeBERT)]
-2. **GraphCodeBERT: Pre-training Code Representations with Data Flow**. ICLR 2021. [[pdf]([https://arxiv.org/pdf/2002.08155.pdf](https://arxiv.org/pdf/2009.08366.pdf))] [[code](https://github.com/microsoft/CodeBERT)]
+2. **GraphCodeBERT: Pre-training Code Representations with Data Flow**. ICLR 2021. [[pdf](https://arxiv.org/pdf/2009.08366.pdf))] [[code](https://github.com/microsoft/CodeBERT)]
 3. **CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation(CodeGPT)**. NeurIPS 2021. [[pdf](https://openreview.net/pdf?id=6lE4dQXaUcb)] [[code](https://github.com/microsoft/CodeXGLUE)]
 4. **PLBART: Unified Pre-training for Program Understanding and Generation**. NAACL 2021. [[pdf](https://arxiv.org/pdf/2103.06333.pdf)] [[code](https://github.com/wasiahmad/PLBART)]
 5. **CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation**. EMNLP 2021. [[pdf](https://arxiv.org/abs/2109.00859)] [[code](https://github.com/salesforce/CodeT5)]
